@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374c36fab3cb42f8bcdbe13fd72429b5, type: 3}
+  m_Name: DartsPopupsStyle
+  m_EditorClassIdentifier: 
+  _styles:
+  - _key: btn_red
+    _colors:
+      _light: {r: 1, g: 0.7647059, b: 0.6509804, a: 1}
+      _middle: {r: 1, g: 0.08235294, b: 0, a: 1}
+      _dark: {r: 0.5019608, g: 0, b: 0.043137256, a: 1}
+  - _key: btn_green
+    _colors:
+      _light: {r: 0.4, g: 1, b: 0.2, a: 1}
+      _middle: {r: 0, g: 0.809, b: 0, a: 1}
+      _dark: {r: 0, g: 0.35, b: 0.028571414, a: 1}
+  - _key: btn_outline
+    _colors:
+      _light: {r: 1, g: 0.9843137, b: 0.9607843, a: 1}
+      _middle: {r: 1, g: 0.79607844, b: 0.6862745, a: 1}
+      _dark: {r: 0.4509804, g: 0.16862746, b: 0.11372549, a: 1}
+  - _key: btn_info
+    _colors:
+      _light: {r: 0.2509804, g: 1, b: 1, a: 1}
+      _middle: {r: 0, g: 0.5647059, b: 1, a: 1}
+      _dark: {r: 0, g: 0.2509804, b: 0.7490196, a: 1}
+  - _key: background_gold
+    _colors:
+      _light: {r: 0.99607843, g: 0.9647059, b: 0.7294118, a: 1}
+      _middle: {r: 1, g: 0.61960787, b: 0, a: 1}
+      _dark: {r: 0.48235294, g: 0.1882353, b: 0, a: 1}
+  - _key: header_box
+    _colors:
+      _light: {r: 0.2901961, g: 0.5568628, b: 1, a: 1}
+      _middle: {r: 0.08627451, g: 0.27450982, b: 0.8509804, a: 1}
+      _dark: {r: 0, g: 0.14117648, b: 0.5137255, a: 1}
+  - _key: background
+    _colors:
+      _light: {r: 0.2901961, g: 0.5568628, b: 1, a: 1}
+      _middle: {r: 0.08627451, g: 0.27450982, b: 0.8509804, a: 1}
+      _dark: {r: 0, g: 0.14117648, b: 0.5137255, a: 1}
+  - _key: background_inner
+    _colors:
+      _light: {r: 0.8509804, g: 0.08627451, b: 0.27450982, a: 1}
+      _middle: {r: 0.5019608, g: 0.023529412, b: 0.22352941, a: 1}
+      _dark: {r: 0.34901962, g: 0.03529412, b: 0.19215687, a: 1}
+  - _key: header_shadow
+    _colors:
+      _light: {r: 0, g: 0, b: 0, a: 0}
+      _middle: {r: 0, g: 0, b: 0, a: 0}
+      _dark: {r: 0, g: 0, b: 0, a: 1}
+  - _key: ico_close
+    _colors:
+      _light: {r: 1, g: 1, b: 1, a: 1}
+      _middle: {r: 1, g: 0.8862745, b: 0.8039216, a: 1}
+      _dark: {r: 0.5529412, g: 0, b: 0, a: 1}
+  - _key: background_overlay
+    _colors:
+      _light: {r: 1, g: 1, b: 1, a: 1}
+      _middle: {r: 0.08627451, g: 0.27450982, b: 0.8509804, a: 1}
+      _dark: {r: 0, g: 0.14117648, b: 0.5137255, a: 1}

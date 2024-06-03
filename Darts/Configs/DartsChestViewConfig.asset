@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b52eba5aa261d9a42bc8a579e27776b4, type: 3}
+  m_Name: DartsChestViewConfig
+  m_EditorClassIdentifier: 
+  rewardViewDatas: []
+  specialViewDatas:
+  - SpecialView: ChestFirstPlace
+    Prefab: {fileID: 4383921992568142501, guid: 8ab924e52e8fc4e979fa671124481ccf,
+      type: 3}
+  - SpecialView: ChestSecondPlace
+    Prefab: {fileID: 4383921992568142501, guid: 212a16840a3a644d889dcb1145175404,
+      type: 3}
+  - SpecialView: ChestThirdPlace
+    Prefab: {fileID: 4383921992568142501, guid: 666b65eb1b6b642eda4a931f6ec84270,
+      type: 3}

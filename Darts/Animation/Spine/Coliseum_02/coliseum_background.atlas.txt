@@ -1,0 +1,48 @@
+
+coliseum_background.png
+size: 8192,8192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_sky_03
+  rotate: false
+  xy: 2, 2
+  size: 5990, 2078
+  orig: 5990, 2177
+  offset: 0, 99
+  index: -1
+cloud_01
+  rotate: true
+  xy: 5994, 873
+  size: 762, 437
+  orig: 773, 448
+  offset: 5, 7
+  index: -1
+cloud_02
+  rotate: true
+  xy: 5994, 2
+  size: 869, 525
+  orig: 878, 536
+  offset: 4, 5
+  index: -1
+cloud_03
+  rotate: true
+  xy: 5994, 1637
+  size: 621, 509
+  orig: 633, 522
+  offset: 6, 7
+  index: -1
+cloud_04
+  rotate: false
+  xy: 5994, 2260
+  size: 474, 344
+  orig: 485, 356
+  offset: 5, 6
+  index: -1
+coliseum_background_07_wide
+  rotate: false
+  xy: 2, 2082
+  size: 5990, 2177
+  orig: 5990, 2177
+  offset: 0, 0
+  index: -1

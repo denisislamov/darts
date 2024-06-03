@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51847e223e8018847bad594fa605a846, type: 3}
+  m_Name: RiseVibrationSequence
+  m_EditorClassIdentifier: 
+  <DelayBeforeStart>k__BackingField: 0
+  <VibrationSequence>k__BackingField:
+  - <HapticType>k__BackingField: 0
+    <RepeatCount>k__BackingField: 1
+    <DelayBetweenMS>k__BackingField: 1149
+  - <HapticType>k__BackingField: 4
+    <RepeatCount>k__BackingField: 1
+    <DelayBetweenMS>k__BackingField: 269
+  - <HapticType>k__BackingField: 0
+    <RepeatCount>k__BackingField: 1
+    <DelayBetweenMS>k__BackingField: 100

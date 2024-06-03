@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b52eba5aa261d9a42bc8a579e27776b4, type: 3}
+  m_Name: DartsRewardsViewConfig
+  m_EditorClassIdentifier: 
+  rewardViewDatas:
+  - Type: Currency
+    Subtype: Hard
+    Prefab: {fileID: 2627305306141986552, guid: 993f271ed68e24853b44bf8a1c5ef430,
+      type: 3}
+  - Type: Lives
+    Subtype: Count
+    Prefab: {fileID: 0}
+  - Type: Lives
+    Subtype: Infinity
+    Prefab: {fileID: 648611509886176599, guid: 9e0042af8808148ceafc475fc8637f60, type: 3}
+  - Type: Lives
+    Subtype: MaxCount
+    Prefab: {fileID: 0}
+  - Type: StartLevelBooster
+    Subtype: Bomb
+    Prefab: {fileID: 1110007552930219194, guid: b6d90aa45c03341fc97e041e91444d56,
+      type: 3}
+  - Type: StartLevelBooster
+    Subtype: Rocket
+    Prefab: {fileID: 1971851513241240548, guid: 2d9f02c28e9b041c8a120c552283cef3,
+      type: 3}
+  - Type: StartLevelBooster
+    Subtype: DiscoBall
+    Prefab: {fileID: 2520751878437039990, guid: acea92f57466f4f3795e0f76b2337084,
+      type: 3}
+  - Type: StartLevelBooster
+    Subtype: InfinityBomb
+    Prefab: {fileID: 2574996279919085313, guid: 8b452dac3f2ab4a1f840496d12a8fdef,
+      type: 3}
+  - Type: StartLevelBooster
+    Subtype: InfinityRocket
+    Prefab: {fileID: 8273536373684804796, guid: dee0dfbc0f8244e1e9b06dc766731a14,
+      type: 3}
+  - Type: StartLevelBooster
+    Subtype: InfinityDiscoBall
+    Prefab: {fileID: 3570068467934405742, guid: e30e71410958947699872fd44ca7400a,
+      type: 3}
+  - Type: IngameBooster
+    Subtype: Dart
+    Prefab: {fileID: 1791001169327633937, guid: 5ee24f54e0a184edb99fd50b1dc46e93,
+      type: 3}
+  - Type: IngameBooster
+    Subtype: Saw
+    Prefab: {fileID: 9187986774038895683, guid: 657ebd5f42b394169ae042aeb0204a9c,
+      type: 3}
+  - Type: IngameBooster
+    Subtype: Anvil
+    Prefab: {fileID: 9187986774038895683, guid: 09efe827bcd714f24ae2e25421c4b381,
+      type: 3}
+  - Type: IngameBooster
+    Subtype: Reshuffle
+    Prefab: {fileID: 9187986774038895683, guid: 6cef501953ba64dd8afa85e4f25c257c,
+      type: 3}
+  - Type: Multiplier
+    Subtype: x2
+    Prefab: {fileID: 4197687389101905432, guid: c43f2d449e68240f4bcab30b319aded9,
+      type: 3}
+  - Type: UniversalCardReward
+    Subtype: 
+    Prefab: {fileID: 9187986774038895683, guid: 327c71c2efd6743b78f50b5327807d68,
+      type: 3}
+  - Type: JokerCardReward
+    Subtype: 
+    Prefab: {fileID: 9187986774038895683, guid: ee3b787fe4834405798a84a85cfcf71c,
+      type: 3}
+  - Type: UniversalCardReward_NoStripe
+    Subtype: 
+    Prefab: {fileID: 9187986774038895683, guid: aaac7821c7ca84b08b5e4a69fdc76b2f,
+      type: 3}
+  - Type: JokerCardReward_NoStripe
+    Subtype: 
+    Prefab: {fileID: 9187986774038895683, guid: 402c7888a986e468a885b51139e63f74,
+      type: 3}
+  specialViewDatas:
+  - SpecialView: Hard_2
+    Prefab: {fileID: 8997637247454901896, guid: 3af586c116a8e49dfa97102a360925e1,
+      type: 3}
+  - SpecialView: Hard_3
+    Prefab: {fileID: 1067125964176921776, guid: 6edfb086c444640bab88dc06143397b5,
+      type: 3}
+  - SpecialView: Hard_4
+    Prefab: {fileID: 1828375731358699619, guid: a8747d460bb8c4fd19087b8aefd81882,
+      type: 3}
+  - SpecialView: Hard_5
+    Prefab: {fileID: 2627305306141986552, guid: 993f271ed68e24853b44bf8a1c5ef430,
+      type: 3}
+  - SpecialView: BlueChest
+    Prefab: {fileID: 5071140818985852888, guid: f7c4f03aea5aa482495142dd2d72996c,
+      type: 3}
+  - SpecialView: VioletChest
+    Prefab: {fileID: 7465357234874337762, guid: 1a9bc12d3df7f4a54894163e29b9ae47,
+      type: 3}
+  - SpecialView: GoldChest
+    Prefab: {fileID: 3478655559573034941, guid: 305d54b75238541d8a442695208fe474,
+      type: 3}

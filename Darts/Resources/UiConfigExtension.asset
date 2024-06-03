@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7463d360950ec4c0d97d04d29917542d, type: 3}
+  m_Name: UiConfigExtension
+  m_EditorClassIdentifier: 
+  framesContainer:
+  - key: DartsLeaderboardWindow
+    assetRef:
+      m_AssetGUID: b9dd72be1f16a4ad892845059a82c706
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    disableType: 3
+  - key: DartsStartWindow
+    assetRef:
+      m_AssetGUID: 770c43633b54140528ec39f7d35596ba
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    disableType: 3
+  - key: DartsInstructionsWindow
+    assetRef:
+      m_AssetGUID: 8ef7d9325529545c29fa82cf5f9b1b8e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    disableType: 3
+  - key: DartsMainWindow
+    assetRef:
+      m_AssetGUID: 771a3280f517549d89a1fbbdfebb89d5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    disableType: 3
+  - key: DartsRewardsWindow
+    assetRef:
+      m_AssetGUID: f66b5f583d6644adf8d45d993409fa31
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    disableType: 3
+  - key: DartsCascadeWindow
+    assetRef:
+      m_AssetGUID: 58bd3aa93ba8542ae94f63e4de861144
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    disableType: 3

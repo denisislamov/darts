@@ -1,0 +1,20 @@
+
+Roses.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+roses_01
+  rotate: false
+  xy: 2, 3
+  size: 1255, 530
+  orig: 1259, 533
+  offset: 2, 0
+  index: -1
+roses_02
+  rotate: 180
+  xy: 1086, 37
+  size: 901, 457
+  orig: 905, 512
+  offset: 2, 54
+  index: -1
